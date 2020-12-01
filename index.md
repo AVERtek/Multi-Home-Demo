@@ -23,6 +23,11 @@
   </button>
 </model-viewer>
 
+<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Don_Felipe_Humanizada_3D.usdz" alt="Apartment-Demo" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+      👋 AR Click Here
+  </button>
+</model-viewer>
+
 <!-- Loads <model-viewer> for modern browsers: -->
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
