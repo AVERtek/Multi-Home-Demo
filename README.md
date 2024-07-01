@@ -1,2 +1,2 @@
-# Apartment
-AR Apartment
+# Multi-Floorplan
+AR Floorplans
